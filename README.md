@@ -30,8 +30,8 @@ Ensure the following are installed on your machine:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TRMS.git
-   cd TRMS
+   git clone https://github.com/Laughwellreformed/taskmanangementsystem.git
+   cd taskmanangementsystem
    ```
 
 2. Install PHP dependencies:
@@ -80,5 +80,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Special thanks to the open-source community and all contributors who have made this project possible.
 
 ## Contact
-For questions or support, feel free to reach out via [your-email@example.com].
+For questions or support, feel free to reach out via [reformedlaughwell@gmail.com].
 
